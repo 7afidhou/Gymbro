@@ -48,7 +48,7 @@ export default function Workout() {
     <div className='bg-zinc-950 h-screen w-full fixed top-1/2 left-1/2 overflow-auto transform -translate-x-1/2 -translate-y-1/2'>
       
       
-      
+      <div className='bg-zinc-950 h-5 w-full'></div>
      {target.map((exer,ind)=> 
     <div className={`bg-zinc-800 w-[350px] sm:w-[600px] md:w-[800px] lg:w-[900px] max-w-[900px] mx-auto pt-5 rounded-xl mt-5 p-4 text-white text-lg md:text-2xl font-Anton flex flex-col`}>
      <div className='flex justify-between'>

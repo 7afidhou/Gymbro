@@ -14,7 +14,7 @@ export default function Hero() {
           </div>
         </nav>
       <div className='flex '>
-      <p className='text-6xl md:text-9xl text-white py-16 flex flex-col gap-20 pl-12'><p className='text-black'>Power</p> Headquarters</p>
+      <p className='text-6xl md:text-9xl text-white py-16 flex flex-col gap-20 pl-6 md:pl-12'><p className='text-black'>Power</p> Headquarters</p>
 
       </div>
       </div>
